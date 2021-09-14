@@ -1,0 +1,21 @@
+{
+    "name": "mynode",
+    "version": "1.0.0",
+    "description": "",
+    "main": "customhttp.js",
+    "scripts": {
+        "start": "node customhttp.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kirankatuwal/%C2%96%C2%96createServerNodeJs.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kirankatuwal/%C2%96%C2%96createServerNodeJs/issues"
+    },
+    "homepage": "https://github.com/kirankatuwal/%C2%96%C2%96createServerNodeJs#readme"
+}
